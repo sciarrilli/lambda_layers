@@ -2,8 +2,10 @@
 
 1. Create a python virtual environment
     
+    ```bash
     python3 -m venv ~/faker
-
+    ```
+    
 2. Activate the virtual environment
     
     source ~/faker/bin/activate
